@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "924333085998",
+    "firebase_url": "https://altitudekotlin.firebaseio.com",
+    "project_id": "altitudekotlin",
+    "storage_bucket": "altitudekotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924333085998:android:44b51a14f807a74ab516bf",
+        "android_client_info": {
+          "package_name": "com.kt.altitudekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924333085998-t59sret6hak2a5hsoas1pum7faj4mm15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kt.altitudekotlin",
+            "certificate_hash": "62ba580159ffcb0fea7ecd76547be9b09edf1123"
+          }
+        },
+        {
+          "client_id": "924333085998-to80saljaeautov0phnhtv03e3207a3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQHcxifYXZ_Oo_Vqx1vuZK2GMmGEruFSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924333085998-to80saljaeautov0phnhtv03e3207a3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

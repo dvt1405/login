@@ -1,0 +1,24 @@
+{
+  "Endpoints": {
+    "notificationEndpoint": "https:\/\/notification.dev.altitudehq.com",
+    "weatherEndpoint": "https:\/\/weather.dev.altitudehq.com",
+    "guestAppConfigEndpoint": "https:\/\/api.uat.altitudehq.com",
+    "deviceAuthEndpoint": "https:\/\/auth.device.dev.altitudehq.com",
+    "annoucementEndpoint": "https:\/\/announcements.dev.altitudehq.com",
+    "propertyEndpoint": "https:\/\/api.uat.altitudehq.com",
+    "appFeedbackEndpoint": "https:\/\/api.uat.altitudehq.com",
+    "stayFeedbackEndPoint": "https:\/\/api.uat.altitudehq.com",
+    "eventLocalEndPoint": "https:\/\/api.uat.altitudehq.com",
+    "miniBarEndPoint": "https:\/\/minibar.uat.altitudehq.com"
+  },
+  "Auth": {
+    "AppToken": "5cf8d6ecd4491e133857d2af",
+    "dClientSecret": "Not required",
+    "dTenantId": "5cc7f6cfedd5a705e445dfcc",
+    "AppID": "5d07738ca7cf561ad0214269",
+    "OpenIdConfigurationUrl": "https:\/\/guest.login.uat.altitudehq.com\/.well-known\/openid-configuration",
+    "dClientId": "5cd28e423b35a0001768f9ec",
+    "dRedirectUri": "com.altitudehq.guest.uat:\/authorize",
+    "dRefrshTokenUrl": "https:\/\/guest.login.uat.altitudehq.com\/oauth\/token"
+  }
+}

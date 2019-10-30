@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AltitudeKotlin</string>
+    <string name="login">Login</string>
+    <string name="font_family">Roboto</string>
+    <string name="button_dialog_cancel">Cancel</string>
+    <string name="button_dialog_ok">OK</string>
+    <string name="logout_dialog">Are you sure to logout</string>
+</resources>
